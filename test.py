@@ -1,2 +1,1 @@
-import torch
-print(torch.__version__)
+print("I want to be far away from IC")
