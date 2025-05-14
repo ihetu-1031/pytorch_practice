@@ -6,7 +6,7 @@ import torch.nn.functional as F
 import torch.optim as optim
 
 # prepare dataset
-batch_size = 64
+batch_size = 32
 
 transform = transforms.Compose([
     transforms.ToTensor(),
